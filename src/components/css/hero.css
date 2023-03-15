@@ -1,3 +1,13 @@
-.container{
-    background-color: crimson;
+.container {
+    width: 100%;
+    min-height: 876px;
+    background: linear-gradient(108.45deg, #FFDEAD 0.7%, rgba(250, 239, 227, 0) 94.85%);
+    backdrop-filter: blur(21px);
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 28px 96px;
 }

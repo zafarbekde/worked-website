@@ -1,0 +1,19 @@
+.headers {
+    width: 1258px;
+    height: 90px;
+    background: #fff;
+    padding: 21px 26px;
+}
+
+.head-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-iteam .iteams{
+    display: flex;
+    gap: 25px;
+    font-weight: 700;
+    list-style-type: none;
+}
