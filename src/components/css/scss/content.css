@@ -4,13 +4,32 @@
   width: 60%;
 }
 .txt .split {
-  padding: 100px 130px;
+  padding: 80px 130px;
 }
 .txt .split .text {
   font-weight: 700;
   font-size: 60px;
   line-height: 70px;
+  padding: 23px 0;
 }
 .txt .split .text .blue-txt {
   color: #4643D3;
+}
+.txt .split .subtext {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+  color: rgba(34, 34, 34, 0.7);
+}
+.txt .split .buttons {
+  padding: 37px 0;
+}
+.txt .split .buttons .start-btn {
+  padding: 15px 20px;
+  background: linear-gradient(141.82deg, rgba(70, 67, 211, 0.75) 13.67%, #0500FF 84.68%);
+  border-radius: 10px;
+  text-decoration: none;
+}
+.txt .split .buttons .start-btn {
+  color: #fff;
 }/*# sourceMappingURL=content.css.map */

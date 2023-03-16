@@ -11,7 +11,7 @@ function Content() {
                 <span className="subtext"> Pellentesque non pretium sem. Sed sit amet diam vitae tortor mattis tincidunt et at neque.</span>
 
                 <div className="buttons">
-                    <a href="#">Get Started</a>
+                    <a className='start-btn' href="#">Get Started</a>
                     <a href="#" className="play-btn"></a>
                 </div>
             </div>
