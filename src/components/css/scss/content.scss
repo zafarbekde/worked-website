@@ -1,8 +1,9 @@
 .txt{
     display: flex;
     flex-direction: column;
+    width: 60%;
 
-    .text{
-        color: crimson;
+    .split{
+        padding: 100px 130px;
     }
 }

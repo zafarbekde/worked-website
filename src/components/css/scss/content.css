@@ -1,7 +1,8 @@
 .txt {
   display: flex;
   flex-direction: column;
+  width: 60%;
 }
-.txt .text {
-  color: crimson;
+.txt .split {
+  padding: 100px 130px;
 }/*# sourceMappingURL=content.css.map */
