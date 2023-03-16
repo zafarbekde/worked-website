@@ -1,6 +1,6 @@
 import './css/scss/content.css'
 import React from 'react'
-import {FaChevronArrow} from 'react-icons/fa'
+import IoIosArrowForward from '@react-icons/all-files/fa/FaBeer'
 
 function Content() {
     return (
@@ -12,7 +12,7 @@ function Content() {
                 <span className="subtext"> Pellentesque non pretium sem. Sed sit amet diam vitae tortor mattis tincidunt et at neque.</span>
 
                 <div className="buttons">
-                    <a className='start-btn' href="#">Get Started <FaChevronArrow/></a>
+                    <a className='start-btn' href="#">Get Started <IoIosArrowForward/></a>
                     <a href="#" className="play-btn"></a>
                 </div>
             </div>
