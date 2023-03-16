@@ -1,4 +1,4 @@
-import './css/scss/content.scss'
+import './css/scss/content.css'
 import React from 'react'
 
 function Content() {
