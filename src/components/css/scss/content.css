@@ -5,4 +5,8 @@
 }
 .txt .split {
   padding: 100px 130px;
+}
+.txt .split .text {
+  font-weight: 700;
+  font-size: 60px;
 }/*# sourceMappingURL=content.css.map */

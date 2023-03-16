@@ -6,8 +6,7 @@ function Content() {
         <div className="txt">
             <div className="split">
                 <h1 className="text">Best Solution For
-                    Your  Business
-                    Startup</h1>
+                    Your  <span className='blue-txt'>Business</span>Startup</h1>
 
                 <span className="subtext"> Pellentesque non pretium sem. Sed sit amet diam vitae tortor mattis tincidunt et at neque.</span>
 
