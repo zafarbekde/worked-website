@@ -9,4 +9,8 @@
 .txt .split .text {
   font-weight: 700;
   font-size: 60px;
+  line-height: 70px;
+}
+.txt .split .text .blue-txt {
+  color: #4643D3;
 }/*# sourceMappingURL=content.css.map */

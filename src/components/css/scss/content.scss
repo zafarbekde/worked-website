@@ -9,8 +9,11 @@
         .text{
             font-weight: 700;
             font-size: 60px;
+            line-height: 70px;
 
-            &_
+            .blue-txt{
+                color: #4643D3;
+            }
         }
     }
 }
