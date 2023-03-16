@@ -1,0 +1,7 @@
+.txt {
+  display: flex;
+  flex-direction: column;
+}
+.txt .text {
+  color: crimson;
+}/*# sourceMappingURL=content.css.map */

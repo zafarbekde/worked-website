@@ -17,6 +17,8 @@ function Header() {
                         <li className="iteam-link">Team</li>
                         <li className="iteam-link">Contact</li>
                     </ul>
+
+                    <a href="#" className="menu-btn">Get a Quote</a>
                 </div>
             </div>
         </div>

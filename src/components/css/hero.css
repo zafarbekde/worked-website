@@ -11,3 +11,9 @@
     align-items: center;
     padding: 28px 96px;
 }
+
+.content{
+    display: flex;
+   
+    align-items: center;
+}

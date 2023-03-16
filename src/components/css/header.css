@@ -3,17 +3,50 @@
     height: 90px;
     background: #fff;
     padding: 21px 26px;
+    border-radius: 10px;
 }
 
-.head-wrap{
+.head-wrap {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.menu-iteam .iteams{
+
+.menu-iteam {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+}
+
+.menu-iteam .iteams {
     display: flex;
     gap: 25px;
     font-weight: 700;
     list-style-type: none;
+}
+
+.menu-iteam .iteams .iteam-link:hover{
+    padding: 10px 20px;
+    background: linear-gradient(141.82deg, #FAD961 13.67%, #F76B1C 84.68%);
+    cursor: pointer;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.menu-btn {
+    text-decoration: none;
+    padding: 15px 30px;
+    background: linear-gradient(141.82deg, #FAD961 13.67%, #F76B1C 84.68%);
+    border-radius: 10px;
+    transition: all 0.5s ease;
+    font-weight: 700;
+}
+
+.menu-btn:hover{
+    background: linear-gradient(141.82deg, #F76B1C 13.67%, #FAD961 84.68%);
+    color: #fff;
+    transform: scale(0.9);
+    transition: all 0.5s ease;
 }
